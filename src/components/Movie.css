@@ -10,7 +10,7 @@
 
 .movies .movie {
   display: flex;
-  width: 45%;
+  width: 100%;
   background-color: white;
   align-items: flex-start;
   margin-bottom: 70px;
@@ -38,7 +38,7 @@
   margin: 0;
 }
 .movie .movie_title {
-  margin-bottom: 5px;
+  margin-bottom: 3px;
   font-size: 24px;
   color: #2c2c2c;
 }
